@@ -1,0 +1,28 @@
+{
+  "name": "thetouristcp",
+  "version": "1.0.0",
+  "description": "Tours Control Panel",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionattan/TheTouristCP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionattan/TheTouristCP/issues"
+  },
+  "homepage": "https://github.com/ionattan/TheTouristCP#readme",
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
