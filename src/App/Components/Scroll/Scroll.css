@@ -1,0 +1,6 @@
+.Scroll {
+  box-sizing: border-box;
+  height: 100vh;
+  overflow: hidden;
+  padding: 4rem 0;
+}
