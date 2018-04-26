@@ -1,6 +1,6 @@
 {
-  "short_name": "NoobPanel",
-  "name": "A noob's control panel",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",

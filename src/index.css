@@ -1,81 +1,82 @@
 body {
-  background: #060912;
-  color: #777889;
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+    background: #060912;
+    color: #777889;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
 }
 
 .text-center {
-  text-align: center;
+    text-align: center;
 }
 
 section {
-  background: #222;
-  box-sizing: border-box;
-  color: #999;
-  height: calc(100vh - 8rem);
-  padding: 1rem;
-  overflow: auto;
-  width: 100%;
+    background: white;
+    box-sizing: border-box;
+    color: #999;
+    height: calc(102vh - 8rem);
+    margin-top: 4.2rem;
+    padding: 1rem;
+    overflow: auto;
+    width: 100%;
 }
 
-  section form {
-    background: #333;
-    margin: 1rem auto;
-    max-width: 300px;
-    padding: 1rem;
-  }
-
-  section fieldset {
-    background: #444;
-    border: none;
-    border-radius: 0.1rem;
-    padding: 1rem;
-  }
-
-  section h1 {
-    border-bottom: 1px solid #444;
-    margin: 0 0 1rem 0;
-    padding-bottom: 1rem;
-  }
-
-  section hr {
-    background: #555;
-    border: 0;
-    height: 1px;
-    margin: 1rem 0;
-  }
-
-  section input {
-    background: #CCC;
-    border: 0;
-    border-radius: 0.1rem;
-    box-sizing: border-box;
-    font-size: 1rem;
-    line-height: 2rem;
-    margin-bottom: 1rem;
-    padding: 0 1rem;
-    width: 100%;
-  }
-
-    section input:focus,
-    section input:hover {
-      background: white;
+    section form {
+        background: #333;
+        margin: 1rem auto;
+        max-width: 300px;
+        padding: 1rem;
     }
 
-  section button {
-    background: #666;
-    border: 0;
-    border-radius: 0.1rem;
-    color: #CCC;
-    font-size: 1rem;
-    line-height: 2rem;
-    padding: 0 1rem;
-  }
+        section fieldset {
+            background: #444;
+            border: none;
+            border-radius: 0.1rem;
+            padding: 1rem;
+        }
 
-    section button:hover {
-      background: #777;
-      box-shadow: 0 0 0.5rem #333;
-      color: white;
+    section h1 {
+        border-bottom: 1px solid #444;
+        margin: 0 0 1rem 0;
+        padding-bottom: 1rem;
     }
+
+    section hr {
+        background: #555;
+        border: 0;
+        height: 1px;
+        margin: 1rem 0;
+    }
+
+    section input {
+        background: #CCC;
+        border: 0;
+        border-radius: 0.1rem;
+        box-sizing: border-box;
+        font-size: 1rem;
+        line-height: 2rem;
+        margin-bottom: 1rem;
+        padding: 0 1rem;
+        width: 100%;
+    }
+
+        section input:focus,
+        section input:hover {
+            background: white;
+        }
+
+        section button {
+            background: #666;
+            border: 0;
+            border-radius: 0.1rem;
+            color: #CCC;
+            font-size: 1rem;
+            line-height: 2rem;
+            padding: 0 1rem;
+        }
+
+            section button:hover {
+                background: #777;
+                box-shadow: 0 0 0.5rem #333;
+                color: white;
+            }

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="87px" viewBox="0 0 87 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>time-duration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-80.000000, -1955.000000)">
+            <g id="ACTIVIDADES" transform="translate(-16.000000, 1041.000000)">
+                <g id="time-duration" transform="translate(97.000000, 915.000000)">
+                    <text id="40min." font-family="PingFangHK-Semibold, PingFang HK" font-size="24" font-weight="500" letter-spacing="1.02857149" fill-opacity="0.854506341" fill="#FFFFFF">
+                        <tspan x="16" y="41">40</tspan>
+                        <tspan x="46.857143" y="41" font-size="12" letter-spacing="0.514285743">min.</tspan>
+                    </text>
+                    <text id="Duration" font-family="PingFangHK-Semibold, PingFang HK" font-size="16" font-weight="500" letter-spacing="0.685714304" fill-opacity="0.854506341" fill="#FFFFFF">
+                        <tspan x="8" y="58">Duration</tspan>
+                    </text>
+                    <path d="M42.5,85 C65.9721019,85 85,65.9721019 85,42.5 C85,19.0278981 65.9721019,0 42.5,0 C19.0278981,0 0,19.0278981 0,42.5 C0,65.9721019 19.0278981,85 42.5,85 Z" id="Oval-6" stroke="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

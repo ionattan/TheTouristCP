@@ -15,6 +15,10 @@
   },
   "homepage": "https://github.com/ionattan/TheTouristCP#readme",
   "dependencies": {
+    "bootstrap": "^4.1.0",
+    "bootstrap4": "^0.0.1-security",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "react-router-dom": "^4.2.2",
@@ -25,5 +29,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.1"
   }
 }

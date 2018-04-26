@@ -1,0 +1,16 @@
+section#tourList th, section#tourList td {
+    padding: 0 10px;
+}
+
+section#tourList button.btn-light {
+    color: #000000;
+    background-color: transparent;
+    border-color: transparent;
+}
+section#tourList .modal-dialog {
+    max-width: 800px;
+}
+
+section#tourList .modal-dialog .img-icon {
+    margin-right: 10px;
+}

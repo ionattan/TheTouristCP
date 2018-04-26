@@ -1,0 +1,14 @@
+{
+  "top": [
+    { "title": "Tours", "url": "/tours", "hidden": true },
+    { "title": "About Us", "url": "/about", "hidden": true },
+    { "title": "Help", "url": "/help" },
+    { "title": "Profile", "url": "/profile", "hidden": true },
+    { "title": "Login", "url": "/login", "hidden": false },
+    { "title": "Logout", "url": "/login", "hidden": true }
+  ],
+  "bottom": [
+    { "title": "Privacy Policy", "url": "/privacy" },
+    { "title": "Terms & Conditions", "url": "/terms" }
+  ]
+}

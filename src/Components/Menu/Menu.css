@@ -1,0 +1,69 @@
+.Menu {
+    background: white;
+    box-sizing: border-box;
+    color: #AAA;
+    font-size: 1rem;
+    padding: 1rem;
+    position: relative;
+}
+
+    .Menu strong {
+        color: #DDD;
+    }
+
+    .Menu nav {
+        padding-top: 0.5rem;
+        position: absolute;
+        right: 1rem;
+        top: 1rem;
+    }
+
+    .Menu a {
+        color: #AAA;
+        padding: 0 0.5rem;
+        text-decoration: none;
+    }
+
+        .Menu a.active {
+            color: #113f68;
+        }
+
+        .Menu a:hover {
+            color: #f0ad4e;
+        }
+
+    .Menu a .MenuLogo {
+        height: 2rem;
+    }
+
+    .MenuTop {
+        box-shadow: 0 0 0.5rem #333;
+        position: fixed;
+        top: 0;
+        width: 100vw;
+    }
+
+.MenuBottom {
+    background: #f0ad4e;
+    bottom: 0;
+    color: #113f68;
+    font-size: 0.85rem;
+    position: fixed;
+    width: 100vw;
+}
+
+.MenuBottom a {
+    color: #113f68;
+}
+
+.MenuBottom a:hover {
+    color: #113f68;
+}
+
+.MenuBottom nav {
+    padding-top: 0;
+}
+
+.MenuBottom strong {
+    color: #113f68;
+}
