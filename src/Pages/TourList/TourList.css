@@ -8,9 +8,18 @@ section#tourList button.btn-light {
     border-color: transparent;
 }
 section#tourList .modal-dialog {
-    max-width: 800px;
+    max-width: 95%;
 }
 
 section#tourList .modal-dialog .img-icon {
+    height: 30px;
     margin-right: 10px;
+}
+
+section#tourList .modal-dialog .modal-body .description {
+    padding-bottom: 20px;
+}
+
+section#tourList .modal-dialog .modal-body .description .title-info {
+    padding-bottom: 10px;
 }

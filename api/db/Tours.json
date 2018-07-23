@@ -1,0 +1,1005 @@
+{
+  "public": [
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "beach_hopper",
+      "id": 1,
+      "modalid": "#beachHopper",
+      "modalidname": "beachHopper",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": ["Beach Hopper"
+      ],
+      "type": "Snorkel",
+      "price": {
+        "adult": [
+          "79"
+        ],
+        "kid": [
+          "35"
+        ]
+      },
+      "duration": [
+        "3.5h"
+      ],
+      "level": "1",
+      "image": "/images/activities/beach-hopper/hopper1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-snorkel-kayak.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Visit the Santa María and Chileno Bays, which are undoubtedly the best places to snorkel in Los Cabos. That is why they are distinguished by their calm crystalline beaches and a great diversity of marine life. Travel aboard a fun Zodiac and live a tour around each bay and during the tour visit the most important and emblematic points of the destination such as Playa del Amor, the colony of Sea Lions and the famous Arch. After your activity enjoy a delicious lunch accompanied by refreshing drinks perfect to end your adventure in one of the most beautiful beaches of Los Cabos.",
+      "description": [
+        "Visit the Santa María and Chileno Bays, which are undoubtedly the best places to snorkel in Los Cabos.",
+        "That is why they are distinguished by their calm crystalline beaches and a great diversity of marine life.",
+        "Travel aboard a fun Zodiac and live a tour around each bay and during the tour visit the most important and emblematic points of the destination such as Playa del Amor, the colony of Sea Lions and the famous Arch.",
+        "After your activity enjoy a delicious lunch accompanied by refreshing drinks perfect to end your adventure in one of the most beautiful beaches of Los Cabos."
+      ],
+      "summary": "Visit the Santa María and Chileno Bays, which are undoubtedly the best places to snorkel in Los Cabos. That is why they are distinguished by their calm crystalline beaches and a great diversity of marine life.",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "/images/activities/beach-hopper/hopper1.jpg",
+        "/images/activities/beach-hopper/hopper2.JPG",
+        "/images/activities/beach-hopper/hopper3.JPG",
+        "/images/activities/beach-hopper/hopper4.JPG",
+        "/images/activities/beach-hopper/hopper5.JPG"
+      ],
+      "schedule": [
+        "09:00",
+        "13:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day.",
+        "The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult.",
+        "This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed.",
+        "No one under the influence of alcohol or drugs is allowed on the tour.",
+        "Depending on the weather conditions or the wind, the ride may be unstable."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides",
+        "Water bottle",
+        "Training and induction",
+        "Use of professional equipment",
+        "Free lockers ($5 US deposit, returned at exit)"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "With your safety in mind, the use of cameras is not permitted. Our professional photographers will be there to capture your adventure at all times.",
+        "Bring cash, credit or debit card for souvenirs, food and other services not included.",
+        "We suggest comfortable clothing; closed shoes are preferred.",
+        "Sun protection and bio-degradable sunscreen are recommended."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "espiritu_santo_island",
+      "id": 2,
+      "modalid": "#espirituSantoIsland",
+      "modalidname": "espirituSantoIsland",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Espíritu Santo Island"
+      ],
+      "type": "Snorkel",
+      "price": {
+        "adult": [
+          "199"
+        ],
+        "kid": [
+          "139"
+        ]
+      },
+      "duration": [
+        "12h"
+      ],
+      "level": "1",
+      "image": "/images/activities/espiritu-santo/espiritusanto1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-island.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Shimmering turquoise waters and sparkling golden sand; snorkeling in Cabo San Lucas is a dream. Your chauffeur will pick you up from your hotel, and you’ll be driven in an air-conditioned van to your zodiac boat. On a 30-minute, scenic ride past beautiful beaches dotting the shoreline, The Tourist takes you to the two best Cabo snorkeling spots: the beaches of Santa Maria Bay and Chileno Bay on the Sea of Cortez. From April 16 to December 14, their calm waters make for easy snorkeling in Los Cabos. After 30 minutes of snorkeling in Los Cabos at each beach, cap off your tour with a light lunch and a visit to the Cabo attractions of Land’s End—the dramatic geologic rock formations of the Arch, Lovers Beach, and the Sea Lion Colony.",
+      "description": [
+        "Shimmering turquoise waters and sparkling golden sand; snorkeling in Cabo San Lucas is a dream. Your chauffeur will pick you up from your hotel, and you’ll be driven in an air-conditioned van to your zodiac boat.",
+        "On a 30-minute, scenic ride past beautiful beaches dotting the shoreline, The Tourist takes you to the two best Cabo snorkeling spots: the beaches of Santa Maria Bay and Chileno Bay on the Sea of Cortez. From April 16 to December 14, their calm waters make for easy snorkeling in Los Cabos.",
+        "After 30 minutes of snorkeling in Los Cabos at each beach, cap off your tour with a light lunch and a visit to the Cabo attractions of Land’s End—the dramatic geologic rock formations of the Arch, Lovers Beach, and the Sea Lion Colony."
+      ],
+      "summary": "Shimmering turquoise waters and sparkling golden sand; snorkeling in Cabo San Lucas is a dream. Your chauffeur will pick you up from your hotel, and you’ll be driven in an air-conditioned van to your zodiac boat.",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "images/activities/espiritu-santo/espiritusanto1.jpg",
+        "images/activities/espiritu-santo/espiritusanto2.jpg",
+        "images/activities/espiritu-santo/espiritusanto3.jpg",
+        "images/activities/espiritu-santo/espiritusanto4.jpg",
+        "images/activities/espiritu-santo/espiritusanto5.jpg"
+      ],
+      "schedule": [
+        "07:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Minimum age is 8 years old. Anyone under 18 years old must be accompanied by an adult.",
+        "This tour is not allowed for guests who are pregnant or those with heart, back and/or neck problems.",
+        "No one under the influence of alcohol or drugs is allowed on the tour.",
+        "Depending on weather and wind conditions, the ride can be bumpy.",
+        "Those guests who want to book scuba diving must be certified with current dive card in hand.",
+        "Scuba diving must be requested when tour is booked."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "kayak_snorkel_tour",
+      "id": 3,
+      "modalid": "#kayakSnorkelTour",
+      "modalidname": "kayakSnorkelTour",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Kayak & Snorkel Tour"
+      ],
+      "type": "Snorkel",
+      "price": {
+        "adult": [
+          "55"
+        ],
+        "kid": [
+          "33"
+        ]
+      },
+      "duration": [
+        "1.5h"
+      ],
+      "level": "1",
+      "image": "/images/activities/kayak-snorkel/kayaksnorkel1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-snorkel-kayak.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Explore closely the beauty of this wonderful tour, taking a tour of the Playa del Amor, the famous Arch and the Colony of the Sea Wolves, paddling in our daring two-seater Kayaks with transparent bottom and know a bit of the history that this destinations gives us. Then immerse yourself in this adventure by snorkeling at Pelicano Beach with all the equipment necessary and always accompanied by an expert guide in the area. Enjoy these activities in one of the best places in Los Cabos.",
+      "description": [
+        "Explore closely the beauty of this wonderful tour, taking a tour of the Playa del Amor, the famous Arch and the Colony of the Sea Wolves, paddling in our daring two-seater Kayaks with transparent bottom and know a bit of the history that this destinations gives us.",
+        "Then immerse yourself in this adventure by snorkeling at Pelicano Beach with all the equipment necessary and always accompanied by an expert guide in the area. Enjoy these activities in one of the best places in Los Cabos."
+      ],
+      "summary": "Explore closely the beauty of this wonderful tour, taking a tour of the Playa del Amor, the famous Arch and the Colony of the Sea Wolves",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "images/activities/kayak-snorkel/kayaksnorkel1.jpg",
+        "images/activities/kayak-snorkel/kayaksnorkel2.jpg",
+        "images/activities/kayak-snorkel/kayaksnorkel3.jpg",
+        "images/activities/kayak-snorkel/kayaksnorkel4.jpg",
+        "images/activities/kayak-snorkel/kayaksnorkel5.jpg"
+      ],
+      "schedule": [
+        "09:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed.",
+        "Depending on the weather conditions or the wind, the ride may be unstable.",
+        "Minimum age is 8 years old. Anyone under 18 years old must be accompanied by an adult.",
+        "This tour is not allowed for guests who are pregnant or those with heart, back and/or neck problems.",
+        "No one under the influence of alcohol or drugs is allowed on the tour."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "lighthouse_museum",
+      "id": 4,
+      "modalid": "#lighthouseMuseum",
+      "modalidname": "lighthouseMuseum",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Old Lighthouse & Museum"
+      ],
+      "type": "History",
+      "price": {
+        "adult": [
+          "125"
+        ],
+        "kid": [
+          "95"
+        ]
+      },
+      "duration": [
+        "3 HOURS DURING THE DAY",
+        "2.5 HOURS DURING SUNSET TOUR"
+      ],
+      "level": "1",
+      "image": "/images/activities/faro-viejo/faroviejo2.jpg",
+      "icon": [
+        "/images/icons/activities/activities-atv.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Just a short distance from the beautiful Cabo beaches is Cabo’s amazing history, both natural and regional! Come with us to explore the splendor the city has to offer while taking a step back in time to dive deep into the area’s rich history. The three-hour tour begins with a 30-minute guided tour in Cabo’s Natural History Museum. Travel to the ancient and even prehistoric history of Cabo as you examine a zebra fossil and more. Artifacts like these help scientists recreate prehistoric life in Cabo and the surrounding areas and learn more about what the area was like. And don’t miss a closer look at the city’s beginnings, including a fascinating representation of a what a Pericú woman, the aboriginal inhabitants of the region, would have looked like. After the history of the area stuns, so will the view! A van will pick you up from the museum, and after just a short ride, you’ll find yourself taking in the sights from the magnificent and iconic Faro Viejo, a stunning lighthouse where the Pacific Ocean meets the Sea of Cortez. It truly is the sight of a lifetime.",
+      "description": [
+        "Just a short distance from the beautiful Cabo beaches is Cabo’s amazing history, both natural and regional! Come with us to explore the splendor the city has to offer while taking a step back in time to dive deep into the area’s rich history.",
+        "The three-hour tour begins with a 30-minute guided tour in Cabo’s Natural History Museum. Travel to the ancient and even prehistoric history of Cabo as you examine a zebra fossil and more. Artifacts like these help scientists recreate prehistoric life in Cabo and the surrounding areas and learn more about what the area was like. And don’t miss a closer look at the city’s beginnings, including a fascinating representation of a what a Pericú woman, the aboriginal inhabitants of the region, would have looked like.",
+        "After the history of the area stuns, so will the view! A van will pick you up from the museum, and after just a short ride, you’ll find yourself taking in the sights from the magnificent and iconic Faro Viejo, a stunning lighthouse where the Pacific Ocean meets the Sea of Cortez. It truly is the sight of a lifetime."
+      ],
+      "summary": "Just a short distance from the beautiful Cabo beaches is Cabo’s amazing history, both natural and regional! Come with us to explore the splendor the city has to offer while taking a step back in time to dive deep into the area’s rich history.",
+      "availability": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "gallery": [
+        "images/activities/faro-viejo/faroviejo2.jpg",
+        "images/activities/faro-viejo/faroviejo1.jpg",
+        "images/activities/faro-viejo/faroviejo3.jpg",
+        "images/activities/faro-viejo/faroviejo4.jpg",
+        "images/activities/faro-viejo/faroviejo5.jpg"
+      ],
+      "schedule": [
+        "09:00",
+        "13:00",
+        "Sunset 17:30 in summer",
+        "Sunset 18:30 in winter"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Anyone under 18 years old must be accompanied by an adult.",
+        "There is no wheelchair access to the Old Lighthouse.",
+        "This tour is not for those with back, neck, and/or heart problems or for women who are pregnant.",
+        "Participants should be comfortable on horses, but previous riding experience is not necessary.",
+        "No one under the influence of alcohol or drugs is allowed on the tour."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "parasailing",
+      "id": 5,
+      "modalid": "#parasailing",
+      "modalidname": "parasailing",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Parasailing"
+      ],
+      "type": "Extreme",
+      "price": {
+        "adult": [
+          "55"
+        ],
+        "kid": [
+          "-"
+        ]
+      },
+      "duration": [
+        "1.5h"
+      ],
+      "level": "1",
+      "image": "/images/activities/parasailing/parasailing1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-parasailing.svg"
+      ],
+      "featured": true,
+      "previewDesc": "The best of parasailing in Los Cabos! Nothing is better than having an adventure in fun, safe and exciting parasailing. Enjoy places of interest such as the End of the Earth, El Medano Beach and the Cabo San Lucas Bay, as you float silently above them. The perfect and sunny climate of Cabo San Lucas during most of the year makes this trip a real pleasure. You and your family are safe when you choose the bests for your parasailing activity.",
+      "description": [
+        "The best of parasailing in Los Cabos! Nothing is better than having an adventure in fun, safe and exciting parasailing.",
+        "Enjoy places of interest such as the End of the Earth, El Medano Beach and the Cabo San Lucas Bay, as you float silently above them. The perfect and sunny climate of Cabo San Lucas during most of the year makes this trip a real pleasure. You and your family are safe when you choose the bests for your parasailing activity.",
+        "A high-flying adventure easily and safely! All you need to do is sit back, relax and enjoy the view from above. Enjoy the sound of silence and the panoramic view of the bay of Cabo San Lucas. Get ready to feel the thrill of your life where adventure and safety combine.",
+        "What is it that makes the adventure of getting into parasailing better with us? For starters, we are proud to be the only parasailing provider in Los Cabos that has all the equipment and security certifications required. Enjoy the best of the parasailing adventure with us. Once the engines light up and leave the harbor to enter the bay, you will be equipped with a harness and then each of the participants will sit in turn on the back of the boat. The rest is simple and easy ... the boat takes care of the rest! You will climb up to 600 feet depending on wind and water conditions. You will enjoy the End of the Earth, the arch, the Beach of the Lovers and the entire coast of Cabo - with the perspective of a bird. The staff of your ship will take you back to the starting point - dry and sitting on the back of the ship's deck. Although there is also the option that you receive a dip on the way back.",
+        "The climate of Cabo San Lucas has been blessed with a sun during most of the year. The good climate offers the perfect conditions, with clear skies, warm temperatures and gentle winds. There is no better way to see Cabo San Lucas than from the air! Do not forget your camera to record your experience and show your friends that you really did.",
+        "That nerves or fears do not prevent you or your family from doing this activity. We have training from PAPO (Professional Association of Parasailing Operators) and we follow all of its procedures strictly in accordance with its safety regulations."
+      ],
+      "summary": "The best of parasailing in Los Cabos! Nothing is better than having an adventure in fun, safe and exciting parasailing. Enjoy places of interest such as the End of the Earth, El Medano Beach and the Cabo San Lucas Bay, as you float silently above them.",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "images/activities/parasailing/parasailing1.jpg",
+        "images/activities/parasailing/parasailing2.jpg",
+        "images/activities/parasailing/parasailing3.jpg",
+        "images/activities/parasailing/parasailing4.jpg",
+        "images/activities/parasailing/parasailing5.jpg"
+      ],
+      "schedule": [
+        "09:00",
+        "15:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Bring sunblock, camera and swimsuit on.",
+        "The flight lasts around 10min.",
+        "The total duration varies depending on the number of people on board the boat carrying out the activity, maximum 10 people.",
+        "Minimum weight is 100 pounds and maximum weight is 450 pounds whether solo or tandem flight. Actual minimum and maximum weights are determined by the captain according to actual wind/weather conditions.",
+        "Depending on the weather conditions or the wind, the ride may be unstable.",
+        "Minimum age is 7 years old. Anyone under 18 years old must be accompanied by an adult.",
+        "This tour is not allowed for guests who are pregnant or those with heart, back and/or neck problems.",
+        "No one under the influence of alcohol or drugs is allowed on the tour."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides",
+        "Water bottle",
+        "Training and induction",
+        "Use of professional equipment",
+        "Free lockers ($5 US deposit, returned at exit)"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "With your safety in mind, the use of cameras is not permitted. Our professional photographers will be there to capture your adventure at all times.",
+        "Bring cash, credit or debit card for souvenirs, food and other services not included.",
+        "We suggest comfortable clothing; closed shoes are preferred.",
+        "Sun protection and bio-degradable sunscreen are recommended."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "parietal_painting",
+      "id": 6,
+      "modalid": "#parietalPainting",
+      "modalidname": "parietalPainting",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Parietal Painting"
+      ],
+      "type": "History",
+      "price": {
+        "adult": [
+          "115"
+        ],
+        "kid": [
+          "115"
+        ]
+      },
+      "duration": [
+        "7h - Aprox"
+      ],
+      "level": "1",
+      "image": "/images/activities/parietalpainting/parietalpainting1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-dolphin.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Step back in time to over 12,000 years ago, and explore the gorgeous sites our ancestors left us! The parietal paintings are incomparable to anything else you’ll see on your trip—a beautiful representation of another civilization and a spiritual journey to our earliest beginnings. In 7,000 B.C., a nomadic group of gatherers and hunters settled around Cabo San Lucas during their trip through the Baja Peninsula. They left behind many artifacts for us to uncover, including the parietal paintings; parietal meaning prehistoric art on rock walls. You’ll also see clues to how the people lived, their customs, their hunts, and their tools. Our experienced tour guides will lead you on your journey back in time. Your tour through history will include seeing the parietal paintings at Las Manitas, which is thought to be the ceremonial center for the ancient people. You’ll also have the rare opportunity to visit a Tibetan monastery, located in the Sierra de la Laguna Biosphere Reserve. At The Tourist, we want your experience to be more than just a tour. You’ll also have the opportunity to take part in meditation and a nature walk, in addition to history itself. And after your tour to the past is complete, enjoy a delicious lunch!",
+      "description": [
+        "Step back in time to over 12,000 years ago, and explore the gorgeous sites our ancestors left us! The parietal paintings are incomparable to anything else you’ll see on your trip—a beautiful representation of another civilization and a spiritual journey to our earliest beginnings.",
+        "In 7,000 B.C., a nomadic group of gatherers and hunters settled around Cabo San Lucas during their trip through the Baja Peninsula. They left behind many artifacts for us to uncover, including the parietal paintings; parietal meaning prehistoric art on rock walls. You’ll also see clues to how the people lived, their customs, their hunts, and their tools.",
+        "Our experienced tour guides will lead you on your journey back in time. Your tour through history will include seeing the parietal paintings at Las Manitas, which is thought to be the ceremonial center for the ancient people. You’ll also have the rare opportunity to visit a Tibetan monastery, located in the Sierra de la Laguna Biosphere Reserve.",
+        "At The Tourist, we want your experience to be more than just a tour. You’ll also have the opportunity to take part in meditation and a nature walk, in addition to history itself. And after your tour to the past is complete, enjoy a delicious lunch!"
+      ],
+      "summary": "Step back in time to over 12,000 years ago, and explore the gorgeous sites our ancestors left us! The parietal paintings are incomparable to anything else you’ll see on your trip—a beautiful representation of another civilization and a spiritual journey to our earliest beginnings. In 7,000 B.C.",
+      "availability": [
+        "Wednesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "gallery": [
+        "images/activities/parietalpainting/parietalpainting1.jpg",
+        "images/activities/parietalpainting/parietalpainting2.jpg",
+        "images/activities/parietalpainting/parietalpainting3.jpg",
+        "images/activities/parietalpainting/parietalpainting4.jpg",
+        "images/activities/parietalpainting/parietalpainting5.jpg"
+      ],
+      "schedule": [
+        "09:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Anyone under 18 years old must be accompanied by an adult.",
+        "This tour is not for those with back, neck, and/or heart problems or for women who are pregnant.",
+        "Participants should not be mobility-challenged. (Tour requires some rock-scaling.)",
+        "All visitors are encouraged to be meditative and respectful in the monastery.",
+        "Children must be older than 12 years.",
+        "No one under the influence of alcohol or drugs is allowed on the tour."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "country_experience",
+      "id": 7,
+      "modalid": "#countryExperience",
+      "modalidname": "countryExperience",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Real Country Experience"
+      ],
+      "type": "History",
+      "price": {
+        "adult": [
+          "125"
+        ],
+        "kid": [
+          "95"
+        ]
+      },
+      "duration": [
+        "3.5h"
+      ],
+      "level": "1",
+      "image": "/images/activities/country-experience/countryexperience1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-city-tour.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Yes, in Cabo we have a awesome beach and a pretty cool nightlife, but there´s so much more than that! Take this tour and enjoy the wild and remote part of Los Cabos. Riding through the countryside on a gorgeous horse, you’ll start your tour exploring some of the most scenic spots in Cabo, including the estuary, where tide meets stream in San Jose del Cabo. Riding on the beach is a treat, and there are plenty of sights to take in during your 45-minute journey. Once you dismount and leave your horse, your excursion continues close to the roots of the area. These are the scenes you wouldn’t see and the facts you’d never be aware of if you stuck to the beaches! View the hard work that goes into the region’s agriculture, while meeting the farmers who put their heart into their land each and every day. Depending on what season you choose to visit, you’ll see planting, cultivation, or harvest. Each has its own subtle, but intricate artwork. Take up to two hours exploring the farm with an experienced guide, and learn about the spinach, lettuce, mango, papaya, and other crops that grow here. At The Tourist, we want your experience to be more than just a tour. You’ll also have the opportunity to take part in meditation and a nature walk, in addition to history itself. And after your tour to the past is complete, enjoy a delicious lunch!. After riding, learning about the local culture, and watching food grow, you’ll no doubt be hungry! Round out your ride and those amazing views by polishing off a meal of delicious, organic food (including scrambled eggs or eggs Mexican-style with machaca)—directly from the soil to your plate.",
+      "description": [
+        "Yes, in Cabo we have a awesome beach and a pretty cool nightlife, but there´s so much more than that! Take this tour and enjoy the wild and remote part of Los Cabos.",
+        "Riding through the countryside on a gorgeous horse, you’ll start your tour exploring some of the most scenic spots in Cabo, including the estuary, where tide meets stream in San Jose del Cabo. Riding on the beach is a treat, and there are plenty of sights to take in during your 45-minute journey.",
+        "Once you dismount and leave your horse, your excursion continues close to the roots of the area. These are the scenes you wouldn’t see and the facts you’d never be aware of if you stuck to the beaches! View the hard work that goes into the region’s agriculture, while meeting the farmers who put their heart into their land each and every day. Depending on what season you choose to visit, you’ll see planting, cultivation, or harvest. Each has its own subtle, but intricate artwork. Take up to two hours exploring the farm with an experienced guide, and learn about the spinach, lettuce, mango, papaya, and other crops that grow here.",
+        "At The Tourist, we want your experience to be more than just a tour. You’ll also have the opportunity to take part in meditation and a nature walk, in addition to history itself. And after your tour to the past is complete, enjoy a delicious lunch!.",
+        "After riding, learning about the local culture, and watching food grow, you’ll no doubt be hungry! Round out your ride and those amazing views by polishing off a meal of delicious, organic food (including scrambled eggs or eggs Mexican-style with machaca)—directly from the soil to your plate."
+      ],
+      "summary": "Yes, in Cabo we have a awesome beach and a pretty cool nightlife, but there´s so much more than that! Take this tour and enjoy the wild and remote part of Los Cabos.",
+      "availability": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "gallery": [
+        "images/activities/country-experience/countryexperience1.jpg",
+        "images/activities/country-experience/countryexperience2.jpg",
+        "images/activities/country-experience/countryexperience3.jpg",
+        "images/activities/country-experience/countryexperience4.jpg",
+        "images/activities/country-experience/countryexperience5.jpg"
+      ],
+      "schedule": [
+        "09:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Anyone under 18 years old must be accompanied by an adult.",
+        "Minimum age is 5 years old.",
+        "This tour is not for those with back, neck, and/or heart problems or for women who are pregnant.",
+        "Participants should be comfortable on horses, but previous riding experience is not necessary.",
+        "No one under the influence of alcohol or drugs is allowed on the tour."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "snuba",
+      "id": 8,
+      "modalid": "#snuba",
+      "modalidname": "snuba",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Snuba"
+      ],
+      "type": "Dive",
+      "price": {
+        "adult": [
+          "79"
+        ],
+        "kid": [
+          "-"
+        ]
+      },
+      "duration": [
+        "2h"
+      ],
+      "level": "1",
+      "image": "/images/activities/snuba/snuba1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-snorkel-kayak.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Let's go down! Discover the beauty of the Sea of ​​Cortez without being a certified diver, SNUBA® gives you the ease of snorkeling plus the ability to breathe underwater, without diving equipment. The way in which SNUBA works is simple: instead of carrying the air supply in the back, you breathe through a long hose connected to a tank on the surface. You can not go beyond what the hose allows, so you do not have to worry about getting the curves and other problems that divers have. You will wear a mask and fins just like the snorkel.",
+      "description": [
+        "Let's go down! Discover the beauty of the Sea of ​​Cortez without being a certified diver, SNUBA® gives you the ease of snorkeling plus the ability to breathe underwater, without diving equipment.",
+        "The way in which SNUBA works is simple: instead of carrying the air supply in the back, you breathe through a long hose connected to a tank on the surface. You can not go beyond what the hose allows, so you do not have to worry about getting the curves and other problems that divers have. You will wear a mask and fins just like the snorkel."
+      ],
+      "summary": "Let's go down! Discover the beauty of the Sea of ​​Cortez without being a certified diver, SNUBA® gives you the ease of snorkeling plus the ability to breathe underwater, without diving equipment.",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "images/activities/snuba/snuba1.jpg",
+        "images/activities/snuba/snuba2.jpg",
+        "images/activities/snuba/snuba3.jpg",
+        "images/activities/snuba/snuba4.jpg",
+        "images/activities/snuba/snuba5.jpg"
+      ],
+      "schedule": [
+        "09:00",
+        "13:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Bring sunscreen, towel, water camera, swimsuit on.",
+        "Minimum age 8 years.",
+        "Pregnant women and clients with respiratory, cardiac, back or neck problems are not allowed to participate in this activity.",
+        "Other medical restrictions also apply.",
+        "No one under the influence of alcohol or drugs is allowed on the tour."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "submarine",
+      "id": 9,
+      "modalid": "#submarine",
+      "modalidname": "submarine",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Submarine"
+      ],
+      "type": "Sailing",
+      "price": {
+        "adult": [
+          "40"
+        ],
+        "kid": [
+          "15"
+        ]
+      },
+      "duration": [
+        "2h"
+      ],
+      "level": "1",
+      "image": "/images/activities/submarine/submarine1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-boat.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Enjoy in the first row a glimpse of the marine life of the Sea of ​​Cortez the Aquarium of the World on board Cabo Submarine. Enrich your knowledge with the interesting information that our Marine Biologist will share about the marine life of Baja California Sur. Semi-submersible means that the boat is not submerged completely, leaving the upper part of the boat on the surface. You can observe the rock formations of the end of the earth from the surface. Then descend and peer through the windows and immerse yourself in the beauties of the schools of fish swimming around the submarine.",
+      "description": [
+        "Enjoy in the first row a glimpse of the marine life of the Sea of ​​Cortez the Aquarium of the World on board Cabo Submarine. Enrich your knowledge with the interesting information that our Marine Biologist will share about the marine life of Baja California Sur.",
+        "Semi-submersible means that the boat is not submerged completely, leaving the upper part of the boat on the surface. You can observe the rock formations of the end of the earth from the surface. Then descend and peer through the windows and immerse yourself in the beauties of the schools of fish swimming around the submarine."
+      ],
+      "summary": "Enjoy in the first row a glimpse of the marine life of the Sea of ​​Cortez the Aquarium of the World on board Cabo Submarine. Enrich your knowledge with the interesting information that our Marine Biologist will share about the marine life of Baja California Sur.",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "images/activities/submarine/submarine1.jpg",
+        "images/activities/submarine/submarine2.jpg",
+        "images/activities/submarine/submarine3.jpg",
+        "images/activities/submarine/submarine4.jpg"
+      ],
+      "schedule": [
+        "09:00",
+        "15:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Bring sun block, hat, camera and light jacket in winter. It is important to be able to go down stairs to reach the cabin.",
+        "Not recommended for people who get dizzy easily or suffer from claustrophobia.",
+        "Anyone under 18 years old must be accompanied by an adult.",
+        "No one under the influence of alcohol or drugs is allowed on the tour"
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "whale_concert",
+      "id": 10,
+      "modalid": "#whaleConcert",
+      "modalidname": "whaleConcert",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Whale Concert"
+      ],
+      "type": "Whales",
+      "price": {
+        "adult": [
+          "95"
+        ],
+        "kid": [
+          "60"
+        ]
+      },
+      "duration": [
+        "2.5h"
+      ],
+      "level": "1",
+      "image": "/images/activities/whale-concert/whaleconcert1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-whale.svg"
+      ],
+      "featured": true,
+      "previewDesc": "One enchanted night, you will hear something strange in the deep blue of the sea, a whale singing a touching melody. In our zodiac-type boat, the whale-watching tour takes on a romantic touch. In this we drop a hydrophone to listen to the touching songs of the humpback whales that have migrated to Baja to mate. The song of the humpback whale is a complex series of loud, repeated sounds over and over again. They sing the same song but in a different tone depending on the family of whales they belong to, the following season the melody will change one of its parts and the other whale families will adjust their melody as well. On a clear night, astronomy can enrich this unique whale-watching adventure. The stars of Cabo San Lucas shine like diamonds on black velvet from the sea of ​​the Sea of ​​Cortes and in the Pacific Ocean.",
+      "description": [
+        "One enchanted night, you will hear something strange in the deep blue of the sea, a whale singing a touching melody. In our zodiac-type boat, the whale-watching tour takes on a romantic touch.",
+        "In this we drop a hydrophone to listen to the touching songs of the humpback whales that have migrated to Baja to mate. The song of the humpback whale is a complex series of loud, repeated sounds over and over again. They sing the same song but in a different tone depending on the family of whales they belong to, the following season the melody will change one of its parts and the other whale families will adjust their melody as well.",
+        "On a clear night, astronomy can enrich this unique whale-watching adventure. The stars of Cabo San Lucas shine like diamonds on black velvet from the sea of ​​the Sea of ​​Cortes and in the Pacific Ocean."
+      ],
+      "summary": "One enchanted night, you will hear something strange in the deep blue of the sea, a whale singing a touching melody. In our zodiac-type boat, the whale-watching tour takes on a romantic touch.",
+      "availability": [
+        "December 15 through April 15"
+      ],
+      "gallery": [
+        "images/activities/whale-concert/whaleconcert1.jpg",
+        "images/activities/whale-concert/whaleconcert2.jpg",
+        "images/activities/whale-concert/whaleconcert3.jpg"
+
+      ],
+      "schedule": [
+        "17:00",
+        "19:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Minimum age is 5 years old. Anyone under 18 years old must be accompanied by an adult.",
+        "This tour is not allowed for guests who are pregnant or those with heart, back and/or neck problems.",
+        "No one under the influence of alcohol or drugs is allowed on the tour.",
+        "Depending on weather and wind conditions, the boat tour ride can be bumpy."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "whale_shark",
+      "id": 11,
+      "modalid": "#whaleShark",
+      "modalidname": "whaleShark",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Whale Shark"
+      ],
+      "type": "Whales",
+      "price": {
+        "adult": [
+          "198"
+        ],
+        "kid": [
+          "95"
+        ]
+      },
+      "duration": [
+        "9h"
+      ],
+      "level": "1",
+      "image": "/images/activities/whale-shark/whaleshark1.jpg",
+      "icon": [
+        "/images/icons/activities/activities-whale.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Swimming with Whale Shark is an occasion to do something totally different, it is a magical experience that you will have the opportunity to meet in the waters of the Sea of ​​Cortez. We have prepared a special excursion for our clients to experience the incredible sensation of swimming with the largest fish in the world. Beginning our tour from Cabo San Lucas, we provide door-to-door transportation with our private round-trip transportation in new vehicles. Traveling along the Pacific Highway. Swimming with the friendliest and biggest fish in the world is a surreal experience! At around 30 feet long, these sea giants may seem imposing, but in reality they are gentle and not at all dangerous to swimmers. Swim with them about 3 hours with us, we will take you to an incredible close encounter with the whale sharks, who slowly glide looking for plankton and krill to feed. Gently and slowly swim close to the surface and that is when these docile creatures will allow you to approach them without risk. Finishing the swim we will arrive to enjoy a buffet lunch. We will prepare for the return in our offices where we have dressing rooms and bathrooms, to later make our last short visit to Todos Santos.",
+      "description": [
+        "Swimming with Whale Shark is an occasion to do something totally different, it is a magical experience that you will have the opportunity to meet in the waters of the Sea of ​​Cortez. We have prepared a special excursion for our clients to experience the incredible sensation of swimming with the largest fish in the world.",
+        "Beginning our tour from Cabo San Lucas, we provide door-to-door transportation with our private round-trip transportation in new vehicles. Traveling along the Pacific Highway. Swimming with the friendliest and biggest fish in the world is a surreal experience! At around 30 feet long, these sea giants may seem imposing, but in reality they are gentle and not at all dangerous to swimmers.",
+        "Swim with them about 3 hours with us, we will take you to an incredible close encounter with the whale sharks, who slowly glide looking for plankton and krill to feed. Gently and slowly swim close to the surface and that is when these docile creatures will allow you to approach them without risk.",
+        "Finishing the swim we will arrive to enjoy a buffet lunch. We will prepare for the return in our offices where we have dressing rooms and bathrooms, to later make our last short visit to Todos Santos."
+      ],
+      "summary": "Swimming with Whale Shark is an occasion to do something totally different, it is a magical experience that you will have the opportunity to meet in the waters of the Sea of ​​Cortez.",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "images/activities/whale-shark/whaleshark1.jpg",
+        "images/activities/whale-shark/whaleshark2.jpg",
+        "images/activities/whale-shark/whaleshark3.jpg",
+        "images/activities/whale-shark/whaleshark4.jpg"
+      ],
+      "schedule": [
+        "07:00"
+      ],
+      "kids_restriction": true,
+      "restrictions": [
+        "Minimum age is 8 years old. Anyone under 18 years old must be accompanied by an adult.",
+        "This tour is not allowed for guests who are pregnant or those with heart, back and/or neck problems.",
+        "No one under the influence of alcohol or drugs is allowed on the tour.",
+        "Depending on weather and wind conditions, the boat ride can be bumpy and visibility may be affected."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "active": true,
+      "template": "_tour.pug",
+      "dirPath": "whale_watching",
+      "id": 12,
+      "modalid": "#whaleWatching",
+      "modalidname": "whaleWatching",
+      "company": "Cabo Expeditions",
+      "pickup": false,
+      "name": [
+        "Whale Watching"
+      ],
+      "type": "Whales",
+      "price": {
+        "adult": [
+          "85"
+        ],
+        "kid": [
+          "59"
+        ]
+      },
+      "duration": [
+        "2h"
+      ],
+      "level": "1",
+      "image": "/images/activities/whale-watching/wave2.jpg",
+      "icon": [
+        "/images/icons/activities/activities-whale.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Board a Zodiac and go out in search of an educational adventure full of emotion - we know exactly where to find the whales! Let an experienced captain show you why Cabo is the place for humpback whale sighting. The Sea of ​​Cortez hosts many species each season, including gray whales, sperm whales, elusive blue whales and occasional groups of dolphins and killer whales. Bring your camera, you'll want to have proof of this incredible encounter with Cabo-style whales. Have you ever wondered why whales travel to the tip of the Baja California Peninsula and how long is it? Are you curious as to why whales jump, or what is their average life? Many of these questions will be answered during this fun educational adventure. We know what we do. All our tours are with small groups to guarantee a personalized, more intimate experience. In our boats you will not see 30, 50 or 100 people. With a maximum of 15 people on board, you can interact with the guide and the whales much more easily. Once the guide has located a whale or some other species, our Zodiac-type boat takes you to that area quickly. He approaches slowly and carefully so as not to disturb them. The captain will drive the boat in such a way that everyone can take the best pictures and experience the whales like never before. During the journey, you will pass through Land's End, the Arch, The Beach of Love and the Colony of Sea Lions. If time permits, you can photograph yourself with these funds.",
+      "description": [
+        "Board a Zodiac and go out in search of an educational adventure full of emotion - we know exactly where to find the whales! Let an experienced captain show you why Cabo is the place for humpback whale sighting. The Sea of ​​Cortez hosts many species each season, including gray whales, sperm whales, elusive blue whales and occasional groups of dolphins and killer whales. Bring your camera, you'll want to have proof of this incredible encounter with Cabo-style whales.",
+        "Have you ever wondered why whales travel to the tip of the Baja California Peninsula and how long is it? Are you curious as to why whales jump, or what is their average life? Many of these questions will be answered during this fun educational adventure.",
+        "We know what we do. All our tours are with small groups to guarantee a personalized, more intimate experience. In our boats you will not see 30, 50 or 100 people. With a maximum of 15 people on board, you can interact with the guide and the whales much more easily.",
+        "Once the guide has located a whale or some other species, our Zodiac-type boat takes you to that area quickly. He approaches slowly and carefully so as not to disturb them. The captain will drive the boat in such a way that everyone can take the best pictures and experience the whales like never before. During the journey, you will pass through Land's End, the Arch, The Beach of Love and the Colony of Sea Lions. If time permits, you can photograph yourself with these funds."
+      ],
+      "summary": "Board a Zodiac and go out in search of an educational adventure full of emotion - we know exactly where to find the whales! Let an experienced captain show you why Cabo is the place for humpback whale sighting.",
+      "availability": [
+        "-"
+      ],
+      "gallery": [
+        "images/activities/whale-watching/whalewatching1.jpg",
+        "images/activities/whale-watching/whalewatching2.jpg",
+        "images/activities/whale-watching/whalewatching3.jpg",
+        "images/activities/whale-watching/whalewatching4.jpg"
+      ],
+      "schedule": [
+        "9:00",
+        "12:00",
+        "15:00"
+      ],
+      "kids_restriction": true,
+      "restrictions": [
+        "Minimum age is 5 years old. Anyone under 18 years old must be accompanied by an adult.",
+        "This tour is not allowed for guests who are pregnant or those with heart, back and/or neck problems.",
+        "No one under the influence of alcohol or drugs is allowed on the tour.",
+        "Depending on weather and wind conditions, the boat tour ride can be bumpy."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "Take your swimsuit under your clothes. We suggest an additional change of clothing, along with sunscreen, towel, biodegradable sunscreen, and water resistant camera.",
+        "Do not forget to bring all medications or personal items you may need for the entire day. The minimum age is 5 years. Anyone under 18 years of age must be accompanied by an adult. This tour is not allowed for pregnant women or those with heart, back or neck problems. People under the influence of alcohol or drugs are not allowed."
+      ]
+    },
+    {
+      "template": "_tour.pug",
+      "active": true,
+      "dirPath": "zipline",
+      "id": 13,
+      "modalid": "#zipLine",
+      "modalidname": "zipLine",
+      "company": "Cabo Expeditions",
+      "pickup":false,
+      "name": [
+        "Zip Line"
+      ],
+      "type": "Extreme",
+      "price": {
+        "adult": {
+          "0": "90"
+        },
+        "kid": [
+          "90"
+        ]
+      },
+      "duration": [
+        "2.5 hours"
+      ],
+      "level": "1",
+      "image": [
+        "/images/activities/zip-line/zip2.jpg"
+      ],
+      "icon": [
+        "/images/icons/activities/activities-rappel.svg"
+      ],
+      "featured": true,
+      "previewDesc": "Grip it and Zip it! - If your preferred way to enjoy the Baja desert is by getting close to it and flying through its vast canyons, Zip Lines is the perfect activity for you. How does a zip-line work? Easy: It's a very basic principle, you ride on an aircraft grade steel cable using a pulley and a safety harness with a main safety strap wich can carry over 20 times your own weight and a second one acting as a backup. You displace using gravity because the cable has a slight tilt downwards, this makes the cables unidirectional which means they only work one-way and not back.",
+      "description": [
+        "Grip it and Zip it!",
+        "If your preferred way to enjoy the Baja desert is by getting close to it and flying through its vast canyons, Zip Lines is the perfect activity for you.",
+        "How does a zip-line work?",
+        "Easy: It's a very basic principle, you ride on an aircraft grade steel cable using a pulley and a safety harness with a main safety strap wich can carry over 20 times your own weight and a second one acting as a backup. You displace using gravity because the cable has a slight tilt downwards, this makes the cables unidirectional which means they only work one-way and not back. You may now wonder about the brakes, well, your pulley has a friction brake which stops you at the end of the zipline and there is always an instructor waiting at the end to assist you. This simplicity is what makes it so safe. Nothing too complicated which makes it impossible to have any user error. "
+      ],
+      "summary": "Grip it and Zip it! - If your preferred way to enjoy the Baja desert is by getting close to it and flying through its vast canyons",
+      "availability": [
+        "-"
+      ],
+      "alt": ["Zip Line tour"],
+      "gallery": [
+        "images/activities/zip-line/zip1.jpg",
+        "images/activities/zip-line/zip2.jpg",
+        "images/activities/zip-line/zip3.jpg",
+        "images/activities/zip-line/zip4.jpg",
+        "images/activities/zip-line/zip5.jpg"
+      ],
+      "schedule": [
+        "9:00",
+        "12:00",
+        "15:00"
+      ],
+      "kids_restriction": false,
+      "restrictions": [
+        "Minimum age is 8 years old. Anyone under 18 years old must be accompanied by an adult.",
+        "Minimum weight is 55 pounds and maximum weight is 330 pounds.",
+        "This tour is not allowed for guests who are pregnant or those with heart, back and/or neck problems.",
+        "Those with vertigo or osteoporosis won’t be allowed to participate in this activity.",
+        "No one under the influence of alcohol or drugs is allowed on the tour.",
+        "Participants must be fit enough to walk about 45 minutes in intervals of 5-15 minutes on varied terrain."
+      ],
+      "included": [
+        "Round-trip ground transportation",
+        "Highly qualified, bilingual guides",
+        "Water bottle",
+        "Training and induction",
+        "Use of professional equipment",
+        "Free lockers ($5 US deposit, returned at exit)"
+      ],
+      "excluded": [
+        "Adventure photos",
+        "Souvenirs",
+        "Meals",
+        "Gratuities"
+      ],
+      "bring": [
+        "With your safety in mind, the use of cameras is not permitted. Our professional photographers will be there to capture your adventure at all times.",
+        "Bring cash, credit or debit card for souvenirs, food and other services not included.",
+        "We suggest comfortable clothing; closed shoes are preferred.",
+        "Sun protection and bio-degradable sunscreen are recommended."
+      ]
+    }
+  ]
+}

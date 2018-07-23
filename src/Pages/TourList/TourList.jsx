@@ -19,13 +19,13 @@ export default class TourList extends Component {
 
     renderLine(image) {
         return(
-            <li key={ image }>{ image }</li>
+            <li className="padding-modal-list" key={ image }>{ image }</li>
         )
     }
 
     renderInfo(info) {
         return(
-            <div className="padding-modal" key={ info }>{ info }</div>
+            <p key={ info }>{ info }</p>
         )
     }
 
@@ -45,42 +45,50 @@ export default class TourList extends Component {
                         </div>
                         <div className="modal-body">
                             <div className="row">
-                                <div className="col-sm-6">
-                                    <div className="description"><strong>Gallery: </strong>
-                                        <div className="description-info">{ tour.gallery.map(this.renderLine.bind(this)) }</div>
+                                <div className="col-sm-7">
+                                    <div className="description">
+                                        <div className="title-info"><strong>Gallery: </strong></div>
+                                        <div className="description-info"><ul>{ tour.gallery.map(this.renderLine.bind(this)) }</ul></div>
                                     </div>
                                 </div>
-                                <div className="col-sm-6">
-                                    <div className="description"><strong>Availability: </strong>
+                                <div className="col-sm-5">
+                                    <div className="description">
+                                        <div className="title-info"><strong>Availability: </strong></div>
                                         <span className="description-info"><ul>{ tour.availability.map(this.renderLine.bind(this)) }</ul></span>
                                     </div>
                                 </div>
                                 <div className="col-sm-12">
-                                    <div className="description"><strong>Description: </strong>
+                                    <div className="description">
+                                        <div className="title-info"><strong>Description: </strong></div>
                                         <span className="description-info">
                                             { tour.description.map(this.renderInfo.bind(this)) }
                                         </span>
                                     </div>
                                 </div>
                                 <div className="col-sm-12">
-                                    <div className="restrictions"><strong>Restrictions: </strong>
+                                    <div className="description">
+                                        <div className="title-info"><strong>Restrictions: </strong></div>
                                         <span className="description-info">
-                                            { tour.restrictions.map(this.renderLine.bind(this)) }
+                                            { tour.restrictions.map(this.renderInfo.bind(this)) }
                                         </span>
                                     </div>
                                 </div>
                                 <div className="col-sm-6">
-                                    <div className="excluded"><strong>Excluded: </strong>
-                                        <span className="description-info">
-                                            { tour.excluded.map(this.renderLine.bind(this)) }
-                                        </span>
+                                    <div className="description">
+                                        <div className="title-info"><strong>What to Excluded: </strong></div>
+                                        <span className="description-info"><ul>{ tour.excluded.map(this.renderLine.bind(this)) }</ul></span>
                                     </div>
                                 </div>
                                 <div className="col-sm-6">
-                                    <div className="included"><strong>Included: </strong>
-                                        <span className="description-info">
-                                            { tour.included.map(this.renderLine.bind(this)) }
-                                        </span>
+                                    <div className="description">
+                                        <div className="title-info"><strong>What's Included: </strong></div>
+                                        <span className="description-info"><ul>{ tour.included.map(this.renderLine.bind(this)) }</ul></span>
+                                    </div>
+                                </div>
+                                <div className="col-sm-6">
+                                    <div className="description">
+                                        <div className="title-info"><strong>What's to Bring: </strong></div>
+                                        <span className="description-info"><ul>{ tour.bring.map(this.renderLine.bind(this)) }</ul></span>
                                     </div>
                                 </div>
                             </div>

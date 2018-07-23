@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@localhost",
+      "image": "https://randomuser.me/api/portraits/men/40.jpg",
+      "level": 99,
+      "name": "Administrator",
+      "hash": "4dm1n"
+    },
+    {
+      "id": 2,
+      "email": "editor@localhost",
+      "image": "https://randomuser.me/api/portraits/men/41.jpg",
+      "level": 66,
+      "name": "Editor",
+      "hash": "3d170r"
+    },
+    {
+      "id": 3,
+      "email": "user@localhost",
+      "image": "https://randomuser.me/api/portraits/men/42.jpg",
+      "level": 33,
+      "name": "Normal User",
+      "hash": "u53r"
+    },
+    {
+      "id": 4,
+      "email": "guest@localhost",
+      "image": "https://randomuser.me/api/portraits/men/43.jpg",
+      "level": 1,
+      "name": "Guest User",
+      "hash": "6u357"
+    }
+  ]
+}
